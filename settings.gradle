@@ -1,0 +1,4 @@
+rootProject.name = 'spring-feign'
+include 'source-server'
+include 'destination-server'
+
