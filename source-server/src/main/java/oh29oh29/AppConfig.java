@@ -1,9 +1,9 @@
-package oh29oh29.way01;
+package oh29oh29;
 
 import org.springframework.cloud.openfeign.EnableFeignClients;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
 @EnableFeignClients
-public class Way01Config {
+public class AppConfig {
 }
